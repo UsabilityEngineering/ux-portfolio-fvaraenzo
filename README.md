@@ -7,5 +7,5 @@ Hi, I am Francsico Vara. I am Computer Science major and part of a Fraternity on
 
 ## UX Journal
 
-[Journal Entry 1](j01/)
-[Journal Entry 2](j02/)
+###[Journal Entry 1](j01/)
+###[Journal Entry 2](j02/)
