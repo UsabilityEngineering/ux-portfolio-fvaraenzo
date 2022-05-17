@@ -13,5 +13,7 @@ The product featured a dial that was easy to learn and clearly was used to show 
 
 The product featured some **affordance** with the dial, as I was able to understand its possible use before reading the documentation. 
 
+A good example of using the product was when I was training Enzo to have a better recall. We would go out on a field and I would have a mile-long leash on him and the shock collar to help with the training. I would release him and he would run and play, then I would call to him expecting him to return on command. However, since he was training he would not come as quickly as I wanted but I would use the controller to give him a nick. The nick would then let him know that he has to return right away. 
+
 The product had high **learnability** and was simple to understand. This made the product more **efficient** to get started with training and leave me with **satisfaction**. Enzo enjoyed the collar and was **satisfied** with the product as well. The product’s documentation made me feel that this product was **safe** and I highly recommend it to dog owners.
 
