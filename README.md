@@ -4,7 +4,7 @@
 Hi, I am Francsico Vara. I am Computer Science major and part of a Fraternity on campus. I am a very active person that enjoys working in groups. 
 ## UX Team Project
 
-[Happy Hour Finder Project](https://github.com/UsabilityEngineering/Happy-Hour-Finder)
+[Happy Hour Finder Project](https://usabilityengineering.github.io/Happy-Hour-Finder/)
 
 
 ## UX Journal
