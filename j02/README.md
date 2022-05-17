@@ -1,7 +1,7 @@
 # The Dogtra iQ Plus+
 ## By Francsico Vara 5/13/2022
 
-![image](https://user-images.githubusercontent.com/98430657/168415057-2ec59635-e404-40e2-a7b3-0b2943aa56a5.png =250x)
+![image](https://user-images.githubusercontent.com/98430657/168415057-2ec59635-e404-40e2-a7b3-0b2943aa56a5.png =250x250)
 
 The Dogtra IQ Plus+ is a fantastic dog training tool that was easy to use and helped train my over-reactive husky Enzo. The item was easy to learn and easy to remember. 
 
